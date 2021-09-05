@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinug-c
+- 👋 Hi, I’m Resma Adi Nugroho
 - 👀 I’m interested in Android App Development and UI UX Designer
 - 🌱 I’m currently learning Java, Python, and Flutter
 - 📫 How to reach me coderadin@gmail.com
