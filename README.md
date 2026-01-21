@@ -1,6 +1,6 @@
 A Brief Introduction About My Self
-- 👋 Hi, I’m Resma Adi Nugroho, a Flutter Enthusiast
-- 👀 I’m interested in Android App Development and Deep Learning 
+- 👋 Hi, I’m Resma Adi Nugroho, a Mobile Enthusiast
+- 👀 I’m interested in Mobile Development and Mobile Security
 - 🌱 I’m currently learning Flutter, Svelte and Express Js
 - 📫 How to reach me coderadin@gmail.com
 
