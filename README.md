@@ -1,7 +1,7 @@
 A Brief Introduction About My Self
 - 👋 Hi, I’m Resma Adi Nugroho, a Mobile Enthusiast
-- 👀 I’m interested in Mobile Development and Mobile Security
-- 🌱 I’m currently learning Flutter, Svelte and Express Js
+- 👀 Currently working at Mobile Development and Mobile Security field
+- 🌱 I'd love a weird experiment that could get my work done in a second. 
 - 📫 How to reach me coderadin@gmail.com
 
 My Latest Article on Medium </br>
