@@ -1,7 +1,7 @@
 A Brief Introduction About My Self
 - 👋 Hi, I’m Resma Adi Nugroho, a Mobile Enthusiast
 - 👀 Currently working at Mobile Development and Mobile Security field
-- 🌱 I'd love a weird experiment that could get my work done in a second. 
+- 🌱 I'd love doing weird experiment that could get my work done in a second. 
 - 📫 How to reach me coderadin@gmail.com
 
 My Latest Article on Medium </br>
